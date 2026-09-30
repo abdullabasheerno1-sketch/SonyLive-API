@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/api/sonyliv",
+      "dest": "https://dishmt.slivcdn.com/hls/live/2020434-b/TEN2HD/serve.key?hdntl=exp=1790875717~acl=/*~id=94573650857761144204631701003147~data=hdntl~hmac=b43506edf98070cc21cc5483b2782659749038afb33981b3d585190efb08b35d&aka_me_session_id=AAAAAAAAAABFmL5qAAAAAEMeU3J3fLrQiuqkPvJovQ2mO+4MgZzdmfguANe4lTaWrQhoeRhX+uopHLQaCVBL9c73zpm0NvDO&aka_media_format_type=hls"
+    }
+  ]
+}
